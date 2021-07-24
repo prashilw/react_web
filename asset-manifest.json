@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/react_web/static/js/main.b2083040.chunk.js",
+    "main.js.map": "/react_web/static/js/main.b2083040.chunk.js.map",
+    "runtime-main.js": "/react_web/static/js/runtime-main.4ee03930.js",
+    "runtime-main.js.map": "/react_web/static/js/runtime-main.4ee03930.js.map",
+    "index.html": "/react_web/index.html",
+    "static/js/main.b2083040.chunk.js.LICENSE.txt": "/react_web/static/js/main.b2083040.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ee03930.js",
+    "static/js/main.b2083040.chunk.js"
+  ]
+}
